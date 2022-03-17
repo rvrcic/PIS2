@@ -6,5 +6,9 @@ namespace ConsoleApp6
 {
     class NewClass
     {
+        void Ispis()
+        {
+            Console.WriteLine("DFFD");
+        }
     }
 }
