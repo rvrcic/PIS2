@@ -8,6 +8,7 @@ namespace ConsoleApp6
     {
         void Ispis()
         {
+            //komentar
             Console.WriteLine("DFFD");
         }
     }
